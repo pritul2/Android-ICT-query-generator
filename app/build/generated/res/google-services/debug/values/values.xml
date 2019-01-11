@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">529789385564-8v8f6261tmrp9pp0fgf211v1nkrjpe0v.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://recycleview-cd766.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">529789385564</string>
+    <string name="google_api_key" translatable="false">AIzaSyDZ06Bl7LyE0D_-cykR4_oXCouat48nrTo</string>
+    <string name="google_app_id" translatable="false">1:529789385564:android:b0fc5367fc1f2419</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDZ06Bl7LyE0D_-cykR4_oXCouat48nrTo</string>
+    <string name="google_storage_bucket" translatable="false">recycleview-cd766.appspot.com</string>
+    <string name="project_id" translatable="false">recycleview-cd766</string>
+</resources>
